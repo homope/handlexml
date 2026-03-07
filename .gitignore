@@ -1,0 +1,85 @@
+# =========================
+# Python & virtual env
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# =========================
+# Secrets & local config
+# =========================
+.env
+secret
+htr.stop
+
+# =========================
+# Project data folders (HTR)
+# =========================
+data/
+data2/
+injected_xml/
+output_crops/
+output_xml/
+backups/
+archive/
+ocr_sample/
+
+Kraken_Dataset/
+Transkribus/
+kesobb/
+print/
+szerkeszt_dataset/
+
+# Generated outputs
+clean_xml/
+quarantine_xml/
+kraken_ready/
+kraken_ready_*/
+trocr_dataset/
+trocr_dataset_*/
+dataset/
+dataset_*/
+export_modified_*/
+
+# =========================
+# Metrics / logs
+# =========================
+*.csv
+evaluation_results*.csv
+*.log
+
+# =========================
+# ML artifacts
+# =========================
+models/
+*.mlmodel
+*.pt
+*.bin
+
+# =========================
+# OS & IDE files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Archives / large binary files
+# =========================
+*.bak
+*.zip
+*.tar.gz
+*.7z
+*.pdf
+*.docx

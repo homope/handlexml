@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=356425:date=20_01_2026_12:35</Creator>
+        <Created>2026-01-15T13:55:15.730+01:00</Created>
+        <LastChange>2026-01-29T17:46:55.166+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="SZEEKL_VIII_9_a_1887-1892_0008_SZEEKL_VIII_9_a_1887-1892_008.jpg" imageWidth="2512" imageHeight="3565">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1772351274460" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="74,260 2430,260 2430,2076 74,2076"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="101,358 366,320 1256,348 1237,251 1125,291 1019,257 786,289 363,207 285,282 101,288"/>
+                <Baseline points="110,322 140,319 185,316 229,316 274,316 319,316 364,316 409,316 453,313 498,316 543,313 588,313 632,313 677,313 722,313 767,313 812,310 856,313 901,313 946,313 991,313 1036,313 1080,316 1125,316 1170,313 1215,313 1259,316"/>
+                <TextEquiv>
+                    <Unicode>a tavalyi évvel a hallgatóság ismét apadást</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="73,439 147,446 185,424 209,433 223,424 266,448 314,420 330,435 361,436 364,354 314,352 269,379 176,339 120,360 78,344"/>
+                <Baseline points="83,409 98,412 143,409 188,406 232,406 277,406 322,403 367,397"/>
+                <TextEquiv>
+                    <Unicode>tüntet fel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="66,524 585,492 1197,527 1197,452 1153,433 491,471 285,410 66,452"/>
+                <Baseline points="74,492 80,492 125,492 170,492 214,492 259,492 304,489 349,489 394,489 438,489 483,489 528,486 573,486 618,486 662,486 707,486 752,486 797,486 841,486 886,486 931,486 976,486 1021,486 1065,486 1110,486 1155,486 1200,489"/>
+                <TextEquiv>
+                    <Unicode>Az igazgató azon nézetének ad kifejezést,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="73,634 1193,589 1193,539 389,555 269,494 73,545"/>
+                <Baseline points="81,579 122,579 167,579 211,582 256,582 301,582 346,582 391,579 435,579 480,579 525,579 570,579 615,579 659,579 704,582 749,576 794,576 838,576 883,576 928,576 973,576 1018,576 1062,576 1107,576 1152,576 1197,579"/>
+                <TextEquiv>
+                    <Unicode>hogy az apadás okaiul egyebet mint a mult</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="70,696 235,671 338,711 808,717 1037,679 1140,730 1218,693 1218,645 845,615 718,655 654,610 70,636"/>
+                <Baseline points="79,674 143,671 188,668 232,668 277,668 322,668 367,668 412,665 456,668 501,668 546,668 591,668 635,671 680,671 725,668 770,668 815,665 859,668 904,665 949,665 994,665 1039,665 1083,668 1128,668 1173,671 1218,680 1221,680"/>
+                <TextEquiv>
+                    <Unicode>tanévben felhozottakat most se tudna meg¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="78,812 123,800 167,811 184,793 214,811 238,800 261,809 260,709 225,696 192,715 172,706 153,727 78,746"/>
+                <Baseline points="86,758 158,755 203,758 247,758 265,758"/>
+                <TextEquiv>
+                    <Unicode>jelelni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1246,783 2409,789 2409,699 2163,743 2068,695 1348,695 1246,737"/>
+                <Baseline points="1254,761 1298,764 1343,764 1388,764 1433,764 1477,767 1522,764 1567,764 1612,764 1657,764 1701,764 1746,764 1791,764 1836,767 1881,764 1925,761 1970,761 2015,761 2060,764 2104,764 2149,764 2194,764 2239,764 2284,761 2328,761 2373,761 2412,764"/>
+                <TextEquiv>
+                    <Unicode>A tanári szék annak kijelentésével, hogy a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1266,870 1451,864 1511,902 2426,878 2426,817 2354,802 1996,840 1266,805"/>
+                <Baseline points="1274,847 1319,844 1364,847 1409,847 1454,847 1498,850 1543,850 1588,850 1633,850 1677,850 1722,853 1767,853 1812,853 1857,856 1901,853 1946,853 1991,853 2036,853 2081,853 2125,853 2170,853 2215,853 2260,853 2305,853 2349,853 2394,853 2430,856"/>
+                <TextEquiv>
+                    <Unicode>hallgatóság számának apadását részéről is</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1275,964 2419,969 2394,903 2093,934 1987,872 1748,930 1591,880 1275,921"/>
+                <Baseline points="1283,949 1301,946 1346,946 1391,946 1436,946 1480,946 1525,943 1570,940 1615,940 1660,940 1704,940 1749,943 1794,943 1839,943 1884,943 1928,946 1973,946 2018,943 2063,943 2107,943 2152,943 2197,943 2242,943 2287,943 2331,943 2376,946 2421,946"/>
+                <TextEquiv>
+                    <Unicode>a tavaly felhozott okban keresi az előadotta¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1268,1077 1397,1062 1445,1091 1501,1063 1541,1091 1633,1065 1843,1088 1842,1019 1764,1000 1688,1018 1651,991 1530,1015 1266,966"/>
+                <Baseline points="1274,1033 1319,1030 1364,1030 1409,1030 1454,1030 1498,1030 1543,1030 1588,1030 1633,1030 1677,1033 1722,1033 1767,1033 1812,1033 1845,1039"/>
+                <TextEquiv>
+                    <Unicode>kat tudomásul veszi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="72,1194 626,1119 717,1157 1250,1138 1225,1088 1096,1107 987,1055 228,1106 72,1071"/>
+                <Baseline points="80,1119 125,1116 170,1119 214,1119 259,1119 304,1119 349,1122 394,1122 438,1122 483,1122 528,1125 573,1125 618,1125 662,1122 707,1122 752,1122 797,1122 841,1119 886,1119 931,1122 976,1119 1021,1119 1065,1119 1110,1122 1155,1122 1200,1122 1245,1125 1254,1122"/>
+                <TextEquiv>
+                    <Unicode>15.) Igazgató tudatja, hogy Nagy Sándor sopronyi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="90,1281 755,1216 1223,1241 1210,1138 977,1196 539,1141 90,1193"/>
+                <Baseline points="98,1206 143,1206 188,1209 232,1212 277,1212 322,1209 367,1209 412,1212 456,1212 501,1212 546,1212 591,1212 635,1212 680,1212 725,1212 770,1212 815,1209 859,1212 904,1209 949,1212 994,1212 1039,1212 1083,1212 1128,1212 1173,1212 1218,1215 1227,1215"/>
+                <TextEquiv>
+                    <Unicode>lakos részére ki 1852 -ben volt az akkori fel¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="90,1375 176,1317 1226,1329 1226,1265 924,1284 812,1231 463,1282 336,1216 90,1291"/>
+                <Baseline points="98,1301 143,1301 188,1298 232,1298 277,1298 322,1298 367,1298 412,1298 456,1298 501,1301 546,1298 591,1298 635,1298 680,1298 725,1298 770,1295 815,1298 859,1298 904,1298 949,1298 994,1295 1039,1298 1083,1295 1128,1298 1173,1298 1218,1307 1230,1310"/>
+                <TextEquiv>
+                    <Unicode>sőbb gazdasági tanintézet hallgatója végbizonyit¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="93,1419 181,1441 214,1410 335,1435 402,1409 781,1422 781,1347 642,1360 580,1322 308,1364 225,1366 163,1334 93,1364"/>
+                <Baseline points="101,1388 146,1388 191,1388 235,1388 280,1388 325,1385 370,1385 415,1385 459,1385 504,1385 549,1388 594,1388 638,1391 683,1391 728,1391 773,1391 785,1391"/>
+                <TextEquiv>
+                    <Unicode>vány másodlat kiállitatott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1240,1431 1461,1434 1494,1414 1563,1419 1604,1450 1683,1417 1785,1425 1783,1347 1710,1332 1664,1328 1607,1373 1554,1359 1510,1376 1238,1326"/>
+                <Baseline points="1248,1388 1292,1385 1337,1388 1382,1388 1427,1388 1471,1388 1516,1388 1561,1391 1606,1388 1651,1391 1695,1391 1740,1391 1785,1394 1788,1394"/>
+                <TextEquiv>
+                    <Unicode>Tudomásul vétetik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="78,1541 189,1510 375,1554 601,1486 999,1535 1193,1505 1193,1451 859,1469 651,1419 557,1463 300,1410 245,1457 78,1476"/>
+                <Baseline points="86,1489 131,1486 176,1486 220,1486 265,1486 310,1483 355,1486 400,1486 444,1483 489,1483 534,1486 579,1486 624,1483 668,1486 713,1483 758,1486 803,1486 847,1486 892,1486 937,1489 982,1486 1027,1486 1071,1489 1116,1489 1161,1489 1197,1495"/>
+                <TextEquiv>
+                    <Unicode>16.) A jegyzőkönyv hitelesitésével megbizat¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="87,1582 229,1642 370,1635 413,1594 648,1620 850,1582 971,1619 1094,1601 1093,1528 755,1548 687,1513 286,1558 172,1510 85,1538"/>
+                <Baseline points="95,1576 140,1573 185,1573 229,1573 274,1576 319,1576 364,1573 409,1573 453,1573 498,1576 543,1576 588,1579 632,1579 677,1579 722,1582 767,1582 812,1582 856,1579 901,1576 946,1576 991,1576 1036,1579 1080,1582 1098,1582"/>
+                <TextEquiv>
+                    <Unicode>nak: Sporzon és Lakner tanárok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="81,1773 1200,1792 1200,1721 1152,1711 527,1729 407,1668 148,1733 81,1711"/>
+                <Baseline points="89,1761 128,1758 173,1761 217,1758 262,1758 307,1758 352,1758 397,1755 441,1755 486,1758 531,1758 576,1755 621,1755 665,1758 710,1758 755,1761 800,1761 844,1758 889,1761 934,1761 979,1758 1024,1758 1068,1758 1113,1755 1158,1749 1203,1749"/>
+                <TextEquiv>
+                    <Unicode>Magyar Óvár 1887 évi November hó 3-án</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:18;}">
+                <Coords points="1347,1974 1505,1993 1535,1970 1620,2000 1995,1978 2018,1965 2017,1881 1915,1896 1868,1873 1773,1924 1699,1884 1635,1902 1460,1827 1407,1862 1345,1856"/>
+                <Baseline points="1355,1955 1400,1952 1445,1955 1489,1955 1534,1955 1579,1958 1624,1958 1669,1961 1713,1964 1758,1964 1803,1964 1848,1964 1892,1964 1937,1958 1982,1955 2021,1958"/>
+                <TextEquiv>
+                    <Unicode>Cserháti Sándor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:19;}">
+                <Coords points="1301,2092 1461,2059 1555,2134 1611,2111 1740,2134 1774,2100 1830,2097 1815,2008 1693,2037 1532,1984 1498,2006 1453,1986 1385,2025 1301,2024"/>
+                <Baseline points="1310,2066 1340,2060 1385,2057 1430,2057 1474,2060 1519,2060 1564,2060 1609,2060 1654,2060 1698,2063 1743,2060 1788,2060 1833,2063"/>
+                <TextEquiv>
+                    <Unicode>a t. szék jegyzője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:20;}">
+                <Coords points="466,1967 520,1973 573,1943 654,1926 731,1937 740,1862 687,1858 658,1830 630,1833 565,1785 485,1802"/>
+                <Baseline points="477,1943 513,1937 558,1931 603,1925 647,1919 692,1913 737,1916"/>
+                <TextEquiv>
+                    <Unicode>Láttam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:21;}">
+                <Coords points="589,2044 654,2036 674,2021 706,2024 774,1995 824,2015 871,2014 887,1939 862,1934 824,1948 796,1921 706,1956 670,1934 643,1943 611,1934"/>
+                <Baseline points="600,2030 612,2027 656,2015 701,2009 746,1994 791,1988 836,1979 880,1976"/>
+                <TextEquiv>
+                    <Unicode>Balás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

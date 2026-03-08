@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=356425:date=03_02_2026_07:39</Creator>
+        <Created>2026-01-15T13:55:18.224+01:00</Created>
+        <LastChange>2026-02-19T15:59:26.374+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="SZEEKL_VIII_9_a_1887-1892_0029_SZEEKL_VIII_9_a_1887-1892_030.jpg" imageWidth="2676" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1772351278509" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="89,191 2485,191 2485,2289 89,2289"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1487,252 2145,259 2145,229 1487,222"/>
+                <Baseline points="1487,252 2145,259"/>
+                <TextEquiv>
+                    <Unicode>Thallmayer és Linhart </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;} textStyle {offset:48; length:7;strikethrough:true;} textStyle {offset:59; length:6;strikethrough:true;}">
+                <Coords points="72,381 1274,296 2481,360 2478,153 101,140"/>
+                <Baseline points="89,337 125,340 170,340 214,340 259,340 304,337 349,337 393,331 438,331 483,328 528,328 572,325 617,325 662,325 707,325 751,322 796,322 841,322 886,325 930,325 975,325 1020,325 1065,322 1109,325 1154,325 1199,325 1244,325 1288,325 1333,325 1378,322 1423,322 1467,322 1512,322 1557,325 1602,322 1646,322 1691,319 1715,316 1760,319 1804,322 1849,319 1894,316 1939,313 1983,313 2028,316 2073,319 2118,319 2146,320 2207,319 2252,322 2297,322 2341,322 2386,322 2431,325 2476,325 2485,325"/>
+                <TextEquiv>
+                    <Unicode>10.) A jegyzőkönyv hitelesitésével megbizatnak: Sporzon és Lakner tanárok</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="123,476 665,419 950,506 1198,440 1453,461 1456,360 1136,354 974,399 887,351 833,387 713,351 644,399 321,399 249,357 189,407 123,384"/>
+                <Baseline points="140,426 164,426 208,426 253,426 298,426 343,426 387,426 432,426 477,423 522,423 566,423 611,423 656,420 701,420 745,420 790,420 835,417 880,414 924,414 969,417 1014,411 1059,411 1103,411 1148,414 1193,411 1238,411 1282,408 1327,405 1372,402 1417,399 1461,405"/>
+                <TextEquiv>
+                    <Unicode>Magyar Ovár 1888 évi  julius hó 29 -én</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="497,608 584,584 614,599 659,572 683,578 710,557 776,560 812,548 818,488 737,488 719,464 689,458 656,416 587,449 530,440"/>
+                <Baseline points="519,581 551,575 596,563 641,554 686,545 730,539 775,534 820,525"/>
+                <TextEquiv>
+                    <Unicode>Láttam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="617,710 653,716 710,689 752,689 863,623 947,635 977,521 929,488 782,557 743,545 668,587 650,584"/>
+                <Baseline points="656,635 662,635 707,623 751,608 796,593 841,584 886,575 930,563 975,554"/>
+                <TextEquiv>
+                    <Unicode>Balás</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1531,608 2373,578 2376,452 2223,437 2055,503 1771,452 1738,482 1663,464 1534,497"/>
+                <Baseline points="1551,584 1575,581 1619,581 1664,581 1709,581 1754,578 1798,575 1843,575 1888,572 1933,572 1977,575 2022,575 2067,572 2112,569 2156,569 2201,566 2246,563 2291,560 2335,560 2380,557"/>
+                <TextEquiv>
+                    <Unicode>Cserháti Sándor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1540,722 1834,737 1885,770 2025,719 2169,737 2238,707 2307,737 2406,710 2409,638 1948,602 1879,653 1711,617 1540,662"/>
+                <Baseline points="1557,689 1560,689 1605,683 1649,683 1694,677 1739,677 1784,677 1828,677 1873,677 1918,677 1963,677 2007,674 2052,674 2097,674 2142,671 2186,674 2231,671 2276,668 2321,674 2365,668 2410,671"/>
+                <TextEquiv>
+                    <Unicode>a tanáriszék jegyzője</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_3" custom="readingOrder {index:7;}">
+                <Coords points="884,2211 1109,2238 1258,2193 1471,2307 1585,2220 1714,2310 1945,2199 2178,2232 2544,2133 2547,2046 2241,1996 2136,2049 1969,1963 1648,2115 1405,2001 1225,2046 1103,1915 896,1972"/>
+                <Baseline points="903,2201 933,2192 978,2183 1008,2198 1035,2198 1079,2198 1124,2198 1187,2189 1232,2177 1312,2174 1369,2171 1437,2171 1482,2171 1527,2177 1547,2176 1547,2176 1593,2183 1637,2186 1730,2174 1784,2151 1790,2151 1834,2154 1876,2139 1921,2139 1966,2139 2010,2139 2055,2139 2100,2139 2145,2139 2189,2139 2234,2139 2279,2142 2327,2133 2551,2136"/>
+                <TextEquiv>
+                    <Unicode>1888/9 tanév</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

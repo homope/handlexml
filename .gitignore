@@ -39,6 +39,7 @@ Transkribus/
 kesobb/
 print/
 szerkeszt_dataset/
+checkpoint-5400/
 
 # Generated outputs
 clean_xml/

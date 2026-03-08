@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.31.0:model_id=39995:lm=none:date=01_09_2025_19:29</Creator>
+        <Created>2025-07-18T14:30:41.157+02:00</Created>
+        <LastChange>2025-09-01T20:03:07.167+02:00</LastChange>
+    </Metadata>
+    <Page imageFilename="SZEEKL_VIII_11_19451123_image00030.jpg" imageWidth="2300" imageHeight="3157">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1766833609891" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1">
+            <Coords points="38,0 38,50 146,50 146,0"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2">
+            <Coords points="32,51 32,3110 1659,3110 1659,51"/>
+            <TextLine id="tr_2_tl_1">
+                <Coords points="915,96 952,110 961,104 996,112 1011,106 1036,118 1054,106 1081,112 1079,60 1046,58 1031,65 1006,56 967,81 942,75 915,81"/>
+                <Baseline points="925,95 951,97 978,98 1005,98 1032,99 1059,101 1086,101"/>
+                <TextEquiv>
+                    <Unicode>- 17 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2">
+                <Coords points="333,254 482,266 568,229 1083,270 1262,233 1397,270 1397,173 1300,162 1063,198 917,164 759,204 690,166 333,171"/>
+                <Baseline points="343,223 398,229 454,229 510,229 565,229 621,229 677,229 733,229 788,229 844,229 900,229 956,229 1011,229 1067,232 1123,232 1179,230 1234,226 1290,226 1346,223 1402,223"/>
+                <TextEquiv>
+                    <Unicode>Világhy Károly főisk. ny. r. tanár át-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3">
+                <Coords points="108,333 1379,349 1350,258 1223,293 844,252 701,287 108,272"/>
+                <Baseline points="119,310 182,314 245,316 308,316 372,316 435,316 498,316 561,316 625,316 688,316 751,316 814,313 878,313 941,313 1004,313 1067,316 1131,316 1194,316 1257,312 1320,310 1384,313"/>
+                <TextEquiv>
+                    <Unicode>veszi az ülés vezetését. Sajnálja, hogy ilyen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4">
+                <Coords points="108,422 277,460 1370,418 1370,360 1237,347 337,379 108,341"/>
+                <Baseline points="119,399 181,403 244,405 307,405 370,405 433,405 495,405 558,403 621,402 684,402 747,402 809,402 872,400 935,399 998,399 1061,399 1123,399 1186,399 1249,396 1312,396 1375,399"/>
+                <TextEquiv>
+                    <Unicode>körülmények között vált meg Sass Gábor főisk.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5">
+                <Coords points="108,526 1425,520 1427,437 110,466"/>
+                <Baseline points="119,489 184,492 250,492 315,495 381,493 446,495 512,492 577,492 643,492 708,492 774,492 839,490 905,489 970,489 1036,488 1101,488 1167,489 1232,486 1298,486 1363,486 1429,486"/>
+                <TextEquiv>
+                    <Unicode>ny. r. tanár az osztály ideiglenes vezetésétől.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6">
+                <Coords points="106,616 482,593 697,630 880,580 1009,622 1452,576 1452,530 1364,518 247,562 106,528"/>
+                <Baseline points="116,578 183,578 250,578 317,580 384,581 451,578 518,581 585,579 652,578 719,578 786,578 853,576 920,575 987,575 1054,572 1121,575 1188,575 1255,573 1322,572 1389,572 1456,566"/>
+                <TextEquiv>
+                    <Unicode>Ezen körülmény az egyetemi átszervezés alatt ál-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7">
+                <Coords points="108,666 327,715 1267,665 1425,692 1425,630 1289,609 108,628"/>
+                <Baseline points="119,665 184,665 250,665 315,665 381,665 446,668 512,668 577,667 643,665 708,668 774,665 839,665 905,662 970,662 1036,662 1101,665 1167,664 1232,662 1298,662 1363,662 1429,665"/>
+                <TextEquiv>
+                    <Unicode>ló osztályt ujból nehéz helyzet elé állitotta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8">
+                <Coords points="108,759 551,799 1429,776 1429,692 108,707"/>
+                <Baseline points="119,751 184,754 250,751 316,751 382,751 448,751 513,753 579,755 645,755 711,751 777,749 842,748 908,748 974,748 1040,749 1106,751 1171,751 1237,748 1303,746 1369,745 1435,751"/>
+                <TextEquiv>
+                    <Unicode>Rámutat arra, hogy Sass Gábor nagy igyekezettel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9">
+                <Coords points="118,857 805,892 1476,848 1476,811 1300,780 994,823 828,786 118,797"/>
+                <Baseline points="128,841 195,839 263,841 330,841 398,841 466,841 533,841 601,840 668,838 736,838 804,838 871,838 939,838 1006,838 1074,838 1141,838 1209,838 1277,837 1344,838 1412,837 1480,829"/>
+                <TextEquiv>
+                    <Unicode>törekedett az osztályt vezetni, azonban rajta ki-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10">
+                <Coords points="118,930 297,971 422,938 875,980 1422,957 1422,890 1335,863 1192,901 1059,867 372,913 118,882"/>
+                <Baseline points="128,925 192,928 257,930 322,929 387,928 452,928 517,928 582,928 647,928 712,928 777,928 841,928 906,928 971,928 1036,928 1101,928 1166,929 1231,927 1296,928 1361,928 1426,933"/>
+                <TextEquiv>
+                    <Unicode>vül álló okokból nem tudott mindig ugy eljárni,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11">
+                <Coords points="112,1050 1439,1038 1439,973 1341,955 1267,994 343,959 112,994"/>
+                <Baseline points="122,1017 188,1017 254,1017 320,1017 386,1017 452,1017 518,1017 584,1017 650,1017 716,1017 783,1017 849,1015 915,1014 981,1012 1047,1011 1113,1014 1179,1014 1245,1014 1311,1011 1377,1013 1444,1005"/>
+                <TextEquiv>
+                    <Unicode>az osztály érdekében, mint szerette volna. Remé-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12">
+                <Coords points="108,1156 233,1115 1233,1150 1449,1108 1391,1056 457,1048 195,1088 108,1058"/>
+                <Baseline points="119,1104 185,1110 252,1110 319,1110 385,1110 452,1107 519,1107 585,1108 652,1107 719,1104 786,1104 852,1106 919,1107 986,1105 1052,1104 1119,1106 1186,1104 1252,1104 1319,1101 1386,1104 1453,1101"/>
+                <TextEquiv>
+                    <Unicode>li, hogy Sass Gábor további mükôdése is töretle-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13">
+                <Coords points="106,1217 1400,1217 1400,1148 1293,1131 1125,1165 106,1154"/>
+                <Baseline points="116,1199 180,1199 244,1199 309,1201 373,1199 438,1199 502,1199 567,1199 631,1197 696,1196 760,1199 824,1199 889,1199 953,1199 1018,1199 1082,1199 1147,1196 1211,1195 1276,1193 1340,1196 1405,1199"/>
+                <TextEquiv>
+                    <Unicode>nül az egyetemi osztály ügyét fogja szolgálni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14">
+                <Coords points="331,1335 557,1289 701,1329 759,1293 1206,1289 1360,1325 1464,1285 1464,1246 1279,1221 1131,1266 333,1244"/>
+                <Baseline points="343,1289 399,1286 455,1286 511,1286 568,1286 624,1286 680,1286 736,1286 793,1286 849,1286 905,1286 961,1286 1018,1283 1074,1286 1130,1285 1186,1285 1243,1283 1299,1283 1355,1282 1411,1280 1468,1280"/>
+                <TextEquiv>
+                    <Unicode>Rámutat ezután arra, hogy az osztály ve-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15">
+                <Coords points="112,1418 547,1379 957,1425 1506,1406 1506,1339 1343,1314 112,1352"/>
+                <Baseline points="122,1375 191,1378 261,1378 330,1378 400,1375 469,1375 539,1375 608,1375 678,1375 747,1375 817,1373 886,1375 956,1375 1025,1375 1095,1375 1164,1375 1234,1372 1303,1373 1373,1375 1442,1373 1512,1375"/>
+                <TextEquiv>
+                    <Unicode>zetése nem maradhat sokáig bizonytalan helyzetben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16">
+                <Coords points="114,1495 1489,1495 1477,1400 114,1425"/>
+                <Baseline points="125,1462 193,1468 261,1468 330,1468 398,1467 467,1465 535,1466 604,1465 672,1465 741,1465 809,1465 877,1465 946,1465 1014,1463 1083,1465 1151,1465 1220,1465 1288,1462 1357,1462 1425,1462 1494,1459"/>
+                <TextEquiv>
+                    <Unicode>Felszólitja a kart, döntsön arról, hogy kivánja-e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17">
+                <Coords points="108,1574 374,1605 828,1562 984,1606 1048,1564 1439,1576 1439,1516 1308,1495 568,1499 505,1537 308,1491 108,1535"/>
+                <Baseline points="119,1554 185,1557 251,1557 317,1557 384,1557 450,1554 516,1554 582,1554 649,1554 715,1554 781,1554 847,1554 914,1554 980,1554 1046,1554 1112,1554 1179,1554 1245,1554 1311,1554 1377,1554 1444,1557"/>
+                <TextEquiv>
+                    <Unicode>az ideiglenes osztályvezetőt már a jelen ülésen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18">
+                <Coords points="106,1668 156,1653 227,1691 320,1680 362,1697 391,1678 408,1685 408,1612 364,1606 333,1581 281,1605 231,1580 185,1605 106,1601"/>
+                <Baseline points="116,1641 143,1645 170,1646 197,1645 224,1644 251,1644 278,1644 305,1644 332,1644 359,1644 386,1644 414,1647"/>
+                <TextEquiv>
+                    <Unicode>kijelölni.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19">
+                <Coords points="297,1759 614,1784 896,1741 969,1782 1241,1786 1456,1747 1456,1682 1391,1670 1067,1697 946,1662 848,1709 745,1668 647,1705 297,1682"/>
+                <Baseline points="307,1733 364,1732 422,1730 480,1724 538,1728 595,1730 653,1733 711,1733 769,1733 826,1733 884,1733 942,1733 1000,1733 1057,1733 1115,1733 1173,1731 1231,1733 1288,1733 1346,1733 1404,1733 1462,1727"/>
+                <TextEquiv>
+                    <Unicode>Dr. Révy Dezső felszólalásában Sass Gábor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20">
+                <Coords points="102,1876 755,1826 936,1868 1081,1830 1460,1841 1460,1784 1335,1757 102,1791"/>
+                <Baseline points="113,1823 180,1823 248,1826 315,1824 383,1823 451,1823 518,1823 586,1823 653,1823 721,1823 789,1823 856,1825 924,1823 991,1824 1059,1823 1126,1823 1194,1823 1262,1822 1329,1823 1397,1823 1465,1823"/>
+                <TextEquiv>
+                    <Unicode>azon kijelentésére tér ki, hogy azért mond le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21">
+                <Coords points="112,1922 458,1959 757,1922 1040,1967 1406,1944 1381,1868 112,1878"/>
+                <Baseline points="122,1909 186,1910 250,1912 315,1912 379,1912 444,1912 508,1910 573,1912 637,1912 702,1912 766,1912 830,1912 895,1912 959,1914 1024,1915 1088,1910 1153,1912 1217,1912 1282,1915 1346,1912 1411,1912"/>
+                <TextEquiv>
+                    <Unicode>az ideiglenes vezető tisztről, mert az osztály</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22">
+                <Coords points="110,2013 840,2067 959,2028 1150,2050 1206,2005 1418,2053 1487,2042 1485,1944 362,1974 108,1932"/>
+                <Baseline points="119,1996 187,1999 256,1999 324,2002 393,2002 462,2000 530,1999 599,1999 667,2000 736,2002 805,2001 873,1999 942,2002 1010,2005 1079,2004 1148,2005 1216,2005 1285,2002 1353,2004 1422,2005 1491,2002"/>
+                <TextEquiv>
+                    <Unicode>bizalmát megvonta tőle. Ugy véli, hogy ez a kije-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_23">
+                <Coords points="114,2148 1572,2129 1554,2028 1481,2065 112,2034"/>
+                <Baseline points="122,2085 194,2087 267,2091 339,2091 412,2093 485,2091 557,2089 630,2091 703,2091 775,2093 848,2094 921,2094 993,2094 1066,2094 1139,2091 1211,2094 1284,2094 1357,2094 1429,2093 1502,2091 1575,2091"/>
+                <TextEquiv>
+                    <Unicode>lentés a helyzet félreismerésén alapul. Azon meggyő-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_24">
+                <Coords points="108,2211 1657,2217 1657,2127 1522,2111 1244,2155 1185,2123 1048,2159 670,2123 108,2150"/>
+                <Baseline points="119,2175 196,2175 273,2179 350,2184 427,2184 504,2184 581,2181 658,2184 735,2184 812,2187 889,2187 966,2187 1043,2187 1120,2184 1197,2184 1274,2184 1351,2182 1428,2183 1505,2181 1582,2183 1659,2181"/>
+                <TextEquiv>
+                    <Unicode>ződésének ad kifejezést, hogy az osztály többsége saját</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_25">
+                <Coords points="106,2283 478,2337 1566,2296 1564,2225 1412,2217 975,2252 709,2209 106,2229"/>
+                <Baseline points="116,2264 188,2264 261,2268 333,2270 406,2273 479,2273 551,2271 624,2270 697,2273 769,2276 842,2276 915,2276 987,2276 1060,2276 1133,2273 1205,2276 1278,2273 1351,2273 1423,2270 1496,2270 1569,2273"/>
+                <TextEquiv>
+                    <Unicode>magát is beleértve, Sass Gábor eddigi müködésével és</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_26">
+                <Coords points="102,2360 160,2396 231,2364 638,2414 1528,2390 1510,2319 487,2335 322,2302 102,2337"/>
+                <Baseline points="113,2354 184,2355 255,2358 326,2362 397,2366 468,2366 539,2366 610,2366 681,2366 752,2369 823,2369 894,2369 965,2369 1036,2369 1107,2369 1178,2367 1249,2366 1320,2366 1391,2366 1462,2363 1533,2360"/>
+                <TextEquiv>
+                    <Unicode>az osztály vezetésével meg volt elégedve. Sajnos a-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_27">
+                <Coords points="108,2479 383,2502 576,2466 661,2508 745,2469 1456,2471 1454,2419 1383,2394 1054,2442 803,2402 106,2414"/>
+                <Baseline points="116,2446 183,2449 250,2449 317,2453 385,2455 452,2458 519,2458 587,2458 654,2458 721,2458 789,2461 856,2461 923,2461 990,2461 1058,2464 1125,2459 1192,2458 1260,2458 1327,2455 1394,2455 1462,2452"/>
+                <TextEquiv>
+                    <Unicode>zonban ma az intézmények életében külső tényezők</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_28">
+                <Coords points="102,2566 277,2600 534,2562 1487,2589 1487,2496 1445,2485 1202,2520 1092,2483 913,2535 807,2494 510,2527 191,2487 102,2527"/>
+                <Baseline points="113,2539 181,2544 250,2548 319,2550 388,2554 457,2554 526,2554 595,2554 664,2555 733,2557 802,2557 870,2560 939,2560 1008,2560 1077,2558 1146,2554 1215,2554 1284,2554 1353,2552 1422,2551 1491,2551"/>
+                <TextEquiv>
+                    <Unicode>szükségszerüen érvényesülnek. Tehát nem a bizalom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_29">
+                <Coords points="96,2654 345,2699 526,2662 682,2697 1248,2660 1462,2689 1443,2579 1233,2624 96,2593"/>
+                <Baseline points="107,2631 174,2638 242,2643 310,2649 378,2652 446,2652 514,2652 582,2650 650,2649 718,2654 786,2653 853,2655 921,2655 989,2655 1057,2652 1125,2650 1193,2648 1261,2646 1329,2645 1397,2643 1465,2640"/>
+                <TextEquiv>
+                    <Unicode>hiánya, hanem külső tényezők esetleges hatásának</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_30">
+                <Coords points="21,2782 431,2755 1123,2793 1541,2753 1541,2687 1441,2681 913,2733 605,2679 503,2714 401,2674 291,2712 21,2685"/>
+                <Baseline points="32,2733 107,2733 183,2735 258,2739 334,2747 410,2748 485,2751 561,2748 637,2746 712,2749 788,2751 864,2751 939,2753 1015,2751 1091,2746 1166,2743 1242,2742 1318,2740 1393,2736 1469,2736 1545,2736"/>
+                <TextEquiv>
+                    <Unicode>mérlegelése birták rá a kart arra, hogy határozatát</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_31">
+                <Coords points="92,2870 624,2905 718,2859 965,2893 1383,2839 1564,2889 1564,2793 1387,2774 372,2828 92,2778"/>
+                <Baseline points="104,2828 177,2830 250,2838 323,2843 397,2848 470,2849 543,2849 616,2846 690,2846 763,2847 836,2852 909,2852 983,2850 1056,2845 1129,2838 1202,2835 1276,2834 1349,2834 1422,2834 1495,2837 1569,2831"/>
+                <TextEquiv>
+                    <Unicode>meghozza. Felszólaló meg van gyöződve arról, hogy ha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_32">
+                <Coords points="102,2936 349,2993 674,2963 744,3003 1056,2953 1150,2991 1279,2945 1483,3005 1483,2874 849,2928 102,2868"/>
+                <Baseline points="113,2924 181,2930 250,2936 319,2946 388,2951 456,2951 525,2953 594,2951 663,2951 731,2953 800,2954 869,2954 938,2954 1006,2951 1075,2948 1144,2939 1213,2938 1281,2939 1350,2939 1419,2936 1488,2942"/>
+                <TextEquiv>
+                    <Unicode>a kar ugyancsak titkosan szavazna azért, hogy meg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_33">
+                <Coords points="94,3049 356,3107 676,3084 915,3132 1291,3074 1370,3107 1433,3092 1433,3015 755,3051 92,2978"/>
+                <Baseline points="104,3022 170,3035 237,3046 304,3058 370,3064 437,3074 504,3079 570,3079 637,3082 704,3085 771,3088 837,3087 904,3085 971,3085 1037,3080 1104,3073 1171,3070 1237,3070 1304,3070 1371,3072 1438,3067"/>
+                <TextEquiv>
+                    <Unicode>van-e elégedve Sass Gábor eddigi vezetésével, a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

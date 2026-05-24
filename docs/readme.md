@@ -18,11 +18,34 @@ projekt_mappa/
 ├── model/
 │   └── segmentation.mlmodel         # A Kraken sorfelismerő (blla) modellje
 ├── oldalak/                         # BEMENET: Ide jönnek a .jpg/.png képek (és az esetleges .xml-ek)
-└── felismert_szovegek/              # KIMENET: Ide generálja a program az eredményt
+└── felismert_szovegek/              # KIMENET: Ide generálja a program az eredményt plaintext
+```
 
-##Telepítési követelmények (Dependencies)
+
+## Telepítési követelmények (Dependencies)
+
 A szkript futtatásához a következő Python csomagok szükségesek:Bashpip install torch transformers lxml Pillow tqdm kraken
 
 ## Konfiguráció és Használat
 
-* **A kód elején található változókkal könnyedén testreszabható a folyamat:VáltozóLeírásAlapértelmezett értéktrocr_model_pathA finomhangolt szövegfelismerő modell útvonala."./checkpoint-5400"kraken_model_pathA Kraken szegmentáló modell útvonala."./model/segmentation.mlmodel"data_folderA nyers képeket és XML-eket tartalmazó bemeneti mappa."./oldalak"output_folderA kész szövegek és XML-ek célmappája."./felismert_szovegek"paddingA sorok körüli vágási ráhagyás (margó) pixelben.5📄 KimenetA folyamat lezárulta után a kimeneti mappában minden eredeti képhez két fájl jön létre:Egy .txt fájl: Amely a teljes oldal összefüggő, olvasható szövegét tartalmazza.Egy .xml fájl (PageXML): Amely tartalmazza a fizikai koordinátákat és a beléjük injektált felismert szöveget is.[!IMPORTANT]Ez a formátum közvetlenül importálható professzionális HTR szoftverekbe (pl. eScriptorium, Transkribus).
+A kód elején található változókkal könnyedén testreszabható a folyamat:
+
+A finomhangolt szövegfelismerő modell útvonala."./checkpoint-5400"kraken_model_path 
+
+Kraken szegmentáló modell útvonala."./model/segmentation.mlmodel"data_folder
+
+A nyers képeket és XML-eket tartalmazó bemeneti mappa."./oldalak"output_folder
+
+A kész szövegek és XML-ek célmappája."./felismert_szovegek"
+
+padding A sorok körüli vágási ráhagyás (margó) pixelben.
+
+## Kimenet
+
+A folyamat lezárulta után a kimeneti mappában minden eredeti képhez két fájl jön létre:
+
+Egy .txt fájl: Amely a teljes oldal összefüggő, olvasható szövegét tartalmazza.
+
+Egy .xml fájl (PageXML): Amely tartalmazza a fizikai koordinátákat és a beléjük injektált felismert szöveget is.
+
+Ez a formátum közvetlenül importálható professzionális HTR szoftverekbe (pl. eScriptorium, Transkribus).
